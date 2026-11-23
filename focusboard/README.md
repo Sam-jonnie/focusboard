@@ -2,8 +2,8 @@
 
 A responsive task dashboard built with **React + Vite + JavaScript + CSS** (frontend only, no backend).
 
-- **Live app:** _add your Vercel/Netlify HTTPS URL_
-- **Repository:** _add your GitHub URL_
+- **Live app: https://focusboard-six-delta.vercel.app/** 
+- **Repository: https://github.com/Sam-jonnie/focusboard.git** 
 
 ![Desktop](screenshots/desktop.png) ![Mobile](screenshots/mobile.png)
 
